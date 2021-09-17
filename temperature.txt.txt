@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-The air temperature is 35 degrees today
-=======
 The air temperature is 32 degrees today
->>>>>>> branch2
